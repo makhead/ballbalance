@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Balance Ball</string>
+    <string name="scoreLabel">Score : %d</string>
+    <string name="debug">x : %d  y: %d</string>
+    <string name="sensor">x : %d  y: %d  z: %d</string>
+
+    <string name="ballCoolDownFinishedMsg">Jump is Ready</string>
+    <string name="RandomEventStartMsg">Random Event Starts</string>
+    <string name="RandomEventRunning">WindSpeed: %s</string>
+    <string name="RandomEventEndMsg">Random Event Ends</string>
+
+</resources>
